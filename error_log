@@ -1,0 +1,104 @@
+[24-Jan-2021 18:11:06 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[24-Jan-2021 18:13:05 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[24-Jan-2021 18:15:15 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[24-Jan-2021 18:15:37 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[24-Jan-2021 18:19:44 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[24-Jan-2021 18:20:35 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[24-Jan-2021 18:20:42 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[24-Jan-2021 18:20:48 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[24-Jan-2021 18:20:51 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[24-Jan-2021 18:23:11 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[24-Jan-2021 18:23:16 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[24-Jan-2021 18:23:31 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[24-Jan-2021 18:25:39 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/shemcyoy/elitefor in /home/shemcyoy/eliteforexpro.com/OTApp/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
